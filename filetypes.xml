@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="qml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
