@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../cell_recogination.py'" />
-    <option name="defaultScopeName" value="File '.../cell_recogination.py'" />
+    <option name="customScope" value="Project 'fusion'" />
+    <option name="defaultScopeName" value="Project 'fusion'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../cell_recogination.py'" />
+    <option name="SEARCH_SCOPE" value="Project 'fusion'" />
     <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
