@@ -4,7 +4,7 @@
       <webServer id="35ebff5d-a5c4-45a6-8411-d68337cd4637" name="kai@10.1.2.37:22" url="http:///">
         <fileTransfer rootFolder="/home/kai" accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="kai@10.1.2.37:22" keyPair="true" />
       </webServer>
-      <webServer id="dd4b8c9d-2a2c-4707-b726-4b658946216c" name="kai@10.1.2.37:22">
+      <webServer id="89d4bedf-5202-4e10-967b-81461ea8884f" name="kai@10.1.2.37:22">
         <fileTransfer accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="kai@10.1.2.37:22" keyPair="true" />
       </webServer>
     </option>
