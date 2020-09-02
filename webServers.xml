@@ -1,7 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="196219cd-3f84-4e2c-b30a-6e5cc949dbb0" name="kai@10.1.2.37:22">
+      <webServer id="b742b0f7-f930-45ef-94ff-549718ff060d" name="kai@10.1.2.37:22">
+        <fileTransfer rootFolder="/home/kai" accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="kai@10.1.2.37:22" keyPair="true" />
+      </webServer>
+      <webServer id="442b46b7-42af-442b-927b-b47e8e9a0816" name="kai@10.1.2.37:22 (1)">
         <fileTransfer rootFolder="/home/kai" accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="kai@10.1.2.37:22" keyPair="true" />
       </webServer>
     </option>
