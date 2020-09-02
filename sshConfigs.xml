@@ -2,7 +2,6 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="10.1.2.37" id="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="kai@10.1.2.37:22" nameFormat="CUSTOM" username="kai" />
-      <sshConfig host="10.1.2.37" id="05b02979-a983-4c8b-8949-3e9d605a5029" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="kai@10.1.2.37:22" nameFormat="CUSTOM" username="kai" />
     </configs>
   </component>
 </application>
