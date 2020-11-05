@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b742b0f7-f930-45ef-94ff-549718ff060d" name="kai@10.1.2.37:22">
-        <fileTransfer rootFolder="/home/kai" accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="pathology_ssh" keyPair="true" />
+      <webServer id="59052208-a929-443f-8003-80ded261c6e8" name="aicenter">
+        <fileTransfer accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="aicenter" keyPair="true" />
       </webServer>
     </option>
   </component>
