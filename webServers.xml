@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="59052208-a929-443f-8003-80ded261c6e8" name="aicenter">
-        <fileTransfer accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="aicenter" keyPair="true" />
+        <fileTransfer rootFolder="/home/kai" accessType="SFTP" host="10.1.2.37" port="22" sshConfigId="d2daa07b-5eaa-4d7c-8a3d-d7d1662b62e8" sshConfig="aicenter" keyPair="true" />
       </webServer>
     </option>
   </component>
